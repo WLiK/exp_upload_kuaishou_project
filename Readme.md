@@ -42,7 +42,7 @@ text_dnn_32.py  # 深度学习模型
 ## 数据预处理
 需要运行getFeature.py生成visual_32_mean_5.csv文件，生成photo_text_df_full_10.csv文件（text特征文件）
 
-## xgb+ffm 运行流程
+## xgb+dnn 运行流程
 运行text_dnn_32.py文件，每运行一个epoch便会生成一个预测文件32epoch*.xt
 
 
